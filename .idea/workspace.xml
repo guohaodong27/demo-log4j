@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78835b3f-bf57-4dc8-8ab9-306ed9fb369c" name="Default Changelist" comment="" />
+    <list default="true" id="78835b3f-bf57-4dc8-8ab9-306ed9fb369c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +96,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -147,12 +150,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563626022232</updated>
       <workItem from="1563626025104" duration="8614000" />
-      <workItem from="1563674774331" duration="368000" />
+      <workItem from="1563674774331" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8982000" />
+    <option name="totallyTimeSpent" value="9226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="775" extended-state="6" />
